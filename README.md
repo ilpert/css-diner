@@ -2,11 +2,12 @@
 
 È un gioco divertente per imparare e praticare i selettori CSS.
 
-Per giocare, visitare [flukeout.github.io](http://flukeout.github.io/) or [cssdiner.com](http://cssdiner.com/) or [ilpert.github.io/css-diner](https://ilpert.github.io/css-diner/)
+Per giocare, nella versione italiana [ilpert.github.io/css-diner](https://ilpert.github.io/css-diner/).
+Versione originale [flukeout.github.io](http://flukeout.github.io/) or [cssdiner.com](http://cssdiner.com/).
 
 ### Change Log
 
-**March 1,2010**
+**March 1,2019**
 * Added italian language
 
 **Aug 25,2016**
