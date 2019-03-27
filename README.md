@@ -6,6 +6,9 @@ Per giocare, visitare [flukeout.github.io](http://flukeout.github.io/) or [cssdi
 
 ### Change Log
 
+**March 1,2010**
+* Added italian language
+
 **Aug 25,2016**
 * Added Twitter, Facebook and Email share actions
   * Tracking clicks with GA Events
