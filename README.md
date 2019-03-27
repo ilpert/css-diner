@@ -1,8 +1,8 @@
-# Welcome to CSS Diner
+# Benvenuti in CSS Diner
 
-It's a fun game to learn and practice CSS selectors.
+È un gioco divertente per imparare e praticare i selettori CSS.
 
-To play, visit [flukeout.github.io](http://flukeout.github.io/) or [cssdiner.com](http://cssdiner.com/)
+Per giocare, visitare [flukeout.github.io](http://flukeout.github.io/) or [cssdiner.com](http://cssdiner.com/) or [ilpert.github.io/css-diner](https://ilpert.github.io/css-diner/)
 
 ### Change Log
 
